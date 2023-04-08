@@ -1,4 +1,4 @@
-#  Aplicação de Cadastro feito com React JS e uma API PHP e MySQL
+#  Aplicação de Cadastro feito com React JS, Tailwind CSS e uma API PHP e MySQL
 	Solução de CRUD (Create, Read, Update, Delete) baseada em React JS e API PHP/MySQL, uso do Tailwind CSS no frontend. 
 
 
